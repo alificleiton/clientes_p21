@@ -12,5 +12,7 @@ E no enviar email temos , localmente tem que configurar os arquivos do apache pa
 
 gerar_planilha.php contém a lógica de baixar os dados via excel.
 
+Parar rodar a aplicação deve-se criar o banco, segue o sql em anexo para criar tabela, configurar o conexao.php caso precisar, e rodar no navegador localhost.
+
 
 
