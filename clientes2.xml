@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<torcedores>
+	<torcedor nome="Sra. Elizabeth Flores Franco Filho" documento="873.335.385-91" cep="52927-611" endereco="Av. Quintana, 59571. Bloco C" bairro="Evandro do Sul" cidade="So Irene" uf="PR" telefone="(41) 3529-4394" email="dserna@terra.com.br" ativo="1"/>
+	<torcedor nome="Emlio Christian Valdez Filho" documento="657.830.332-43" cep="51102-511" endereco="Travessa Emanuel Soares, 885. Bloco C" bairro="So Emiliano do Leste" cidade="Noel do Norte" uf="PB" telefone="(27) 4055-3538" email="epaes@faro.net.br" ativo="1"/>
+	<torcedor nome="Fbio Balestero" documento="670.314.347-18" cep="04809-855" endereco="R. Noel, 68. Bloco B" bairro="Espinoza d'Oeste" cidade="Feliciano do Leste" uf="AC" telefone="(67) 96905-9654" email="manuel06@yahoo.com" ativo=""/>
+	
+</torcedores>
